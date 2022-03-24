@@ -20,7 +20,7 @@
 * JavaScript
 * TypeScript
 * React
-* Redux
+* Redux Saga
 * Expo cli
 * Git
 * Insomnia
